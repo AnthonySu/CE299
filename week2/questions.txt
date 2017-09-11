@@ -1,0 +1,6 @@
+questions:
+	1. I find a python module called 'osmnx' written by Geoff Boeing, PhD at UC Berkeley. A courses taught by him is CP255. This module is used for OSM data. But, I cannot successfully install osmnx on both my mac and Azure.
+
+	2. After I get some OSM data, which includes street, transportation, GPS track and buildings, in terms of geography in the project note, which part of these data is what we need? like street data?
+
+	3. Is there any existed framework for us to build dynamic database onAWS quickly?
