@@ -1,3 +1,9 @@
 [submodule "osmnx-examples"]
 	path = osmnx-examples
 	url = https://github.com/hxdengBerkeley/osmnx-examples.git
+[submodule "osmnx"]
+	path = osmnx
+	url = https://github.com/hxdengBerkeley/osmnx.git
+[submodule "urban-data-science"]
+	path = urban-data-science
+	url = https://github.com/hxdengBerkeley/urban-data-science.git
