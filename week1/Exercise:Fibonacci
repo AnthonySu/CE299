@@ -1,0 +1,14 @@
+def fib_1(n):
+	if n<2:
+		return n
+	else:
+		return fib_1(n-2)+fib_1(n-1)
+
+def fib_2(n):
+	a,b = 0,1
+	for i in range(n-1):
+		a , b =b, a+b
+	return b
+
+print(fib_1(5))
+print(fib_2(5))
