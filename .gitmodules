@@ -6,4 +6,4 @@
 	url = https://github.com/hxdengBerkeley/osmnx.git
 [submodule "urban-data-science"]
 	path = urban-data-science
-	url = https://github.com/hxdengBerkeley/urban-data-science.git
+	url = https://github.com/hxdengBerkeley/urban-data-science
