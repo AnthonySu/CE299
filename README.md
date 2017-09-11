@@ -3,7 +3,7 @@
 
 	Prograss: 
 		Week1	Learn Git(codecademy.com) and Python(Jeffrey's file and Azure's python exercise) 
-		week2	Practice python from pandas and machine learning. 
+		week2	Practice python from pandas and machine learning. A simple Python web-crawl with Framework-Scrapy.  
 
 	Collaborators:
   	Phd: Gerry Casey
