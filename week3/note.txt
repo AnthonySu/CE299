@@ -1,0 +1,2 @@
+Note for week3 Learning:
+AWS, EC2, S3 Storage, 
