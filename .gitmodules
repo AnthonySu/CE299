@@ -1,0 +1,3 @@
+[submodule "osmnx-examples"]
+	path = osmnx-examples
+	url = https://github.com/hxdengBerkeley/osmnx-examples.git
