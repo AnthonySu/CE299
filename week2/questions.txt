@@ -3,4 +3,8 @@ questions:
 
 	2. After I get some OSM data, which includes street, transportation, GPS track and buildings, in terms of geography in the project note, which part of these data is what we need? like street data?
 
+	Highway data OSM.
+
 	3. Is there any existed framework for us to build dynamic database onAWS quickly?
+
+	
