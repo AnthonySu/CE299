@@ -1,0 +1,22 @@
+
+Module 2 AWS Storage & Content Delivery
+	1. Identity key AWS storage options
+		1) Amazon Simple Storage Services(S3) is storage for the Internet. It is designed to make web-scale computing easier for developers. Any amount of data and highly scalable.
+		2)Amazon Glacier is an extremely low-cost storage service that provides secure and durable storage for data archiving and backup.Amazon Glacier is optimized for data that is infrequently accessed and for which retrieval times of several hours are suitable. 
+		3)Amazon Elastic Block Store (EBS) provides persistent block-level storage volumes for use with Amazon EC2 instances in the AWS cloud.
+		4)AWS Storage Gateway Is a service connecting an on-premises software appliance with cloud-based storage to provide seamless and secure integration between an organization's on-premises IT environment and the AWS’ storage infrastructure. Amazon EBS is particularly suited for applications that require a database, file system, or access to raw block-level storage.
+		5)AWS Import/Export Accelerates moving large amounts of data into and out of AWS, using portable storage devices for transport.
+		6)Amazon CloudFront Is a content delivery web service.You can use Amazon CloudFront to deliver your entire website.
+
+	2. Describe Amazon EBS
+		Amazon Elastic Block Store (EBS) provides persistent block-level storage volumes for use with Amazon EC2 instances in the AWS cloud.
+
+	3. Create an Amazon S3 bucket and manage associated objects
+
+
+
+Module 3 AWS Compute Services & Networking
+	1. Identify the different AWS compute and networking options 
+		1) Amazon Elastic Compute Cloud: Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
+	2.Describe what Amazon Virtual Private Cloud is	3.Create an Amazon Elastic Compute Cloud instance	4.Verify how to use Amazon Elastic Block Storage
+
