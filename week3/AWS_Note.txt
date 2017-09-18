@@ -20,3 +20,6 @@ Module 3 AWS Compute Services & Networking
 		1) Amazon Elastic Compute Cloud: Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
 	2.Describe what Amazon Virtual Private Cloud is	3.Create an Amazon Elastic Compute Cloud instance	4.Verify how to use Amazon Elastic Block Storage
 
+Questions:
+	1) Why we use AWS S3, because our data will be auto-updated frequently and S3 is suitable for update for once and use for many times. Everytime I update a little part of my data, all data will be checked and updated.
+	2) Programming on EC2 and store data on S3.
