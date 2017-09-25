@@ -7,3 +7,6 @@
 [submodule "urban-data-science"]
 	path = urban-data-science
 	url = https://github.com/hxdengBerkeley/urban-data-science
+[submodule "week4/docker-curriculum"]
+	path = week4/docker-curriculum
+	url = https://github.com/prakhar1989/docker-curriculum.git
